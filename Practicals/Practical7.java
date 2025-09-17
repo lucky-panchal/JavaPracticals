@@ -4,6 +4,7 @@ public class Practical7 {
         person.displayInfo();
     }
 }
+
 class Person {
     private String name;
     private int age;
